@@ -47,6 +47,6 @@ It appears that skill plays a larger role than luck in a player winning. All sta
 
 Here are some potential sources of error in this analysis:
 
-- Selection bias: I did not prove that my sample was representative of the population. Ideally, I would sample the entire population of 400 games. Furthermore, these findings do not necessarily generalize to every Civilization player, since every data point is from FilthyRobot. However, using data from multiple players also introduces significant problems.
+- Selection bias: I did not prove that my sample was representative of the population. Ideally, I would sample the entire population of 400 games. Furthermore, these findings do not necessarily generalize to every Civilization 5 player, since every data point is from FilthyRobot. However, using data from multiple players also introduces significant problems.
 - Insufficient sample size: Logistic regressions typically require n to be significantly larger than 72.
 - Multicollinearity: There are a number of other factors that could influence the chances of winning besides the attributes I measured.
