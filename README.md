@@ -4,10 +4,10 @@ Cedric Sirianni
 
 ## Background
 
-In the video game Sid Meier’s Civilization 5, each player represents a leader of a civilization and must guide its growth over the course of thousands of years. The game ends when one player achieves one of the victory conditions (conquer the world, be elected world leader, send a rocket ship to space, etc.). At the beginning of the game, players must select the settlement location of their capital. Settlement locations have different attributes e.g. the presence of a mountain, river, ocean, etc.
+In the video game Sid Meier’s Civilization 5, each player represents a leader of a civilization and must guide its growth over the course of thousands of years. The game ends when one player achieves one of the victory conditions (conquer the world, be elected world leader, send a rocket ship to space, etc.). At the beginning of the game, players must select the settlement location of their capital. Settlement locations have different attributes e.g. the presence of a mountain, river, ocean, hill, etc.
 
 ## About
-In this data analysis, I investigate *if starting conditions influence the player’s chance of winning*. My hypothesis is that certain characteristics (presence of a mountain, river, or ocean) have dramatic effects.
+In this data analysis, I investigate *if starting conditions influence the player’s chance of winning*. My hypothesis is that certain characteristics (presence of a mountain, river, ocean, or hill) have dramatic effects.
 
 To view the accompanying presentation for this project, click [here](https://docs.google.com/presentation/d/1FT_cNBsll4tAzSqiaOMsJ6y-Qid2bP_ji7U1uy0_pWY/edit?usp=sharing).
 
